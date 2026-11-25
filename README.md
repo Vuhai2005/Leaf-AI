@@ -1,4 +1,7 @@
+
 # LeafAI — Frontend Demo
+
+link deploy: https://leaf-ai-jade.vercel.app/
 
 LeafAI là giao diện React + TypeScript chạy độc lập trên trình duyệt, không cần backend.
 
